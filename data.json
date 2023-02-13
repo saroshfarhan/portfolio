@@ -1,0 +1,30 @@
+{
+  "intro": {
+    "name": "Sarosh Farhan",
+    "logo": "./src/assets/logo.svg",
+    "designation": "Frontend Developer | UI/UX Designer | QA Automation",
+    "socials": [
+      {
+        "link": "https://www.linkedin.com/in/saroshfarhan/",
+        "icon": "./src/assets/linkedin.svg"
+      },
+      {
+        "link": "https://www.instagram.com/sarosh.design/",
+        "icon": "./src/assets/instagram.svg"
+      },
+      {
+        "link": "https://github.com/saroshfarhan",
+        "icon": "./src/assets/github.svg"
+      }
+    ]
+  },
+  "projects": [
+    {
+      "thumbnail": "",
+      "name": "",
+      "description": "",
+      "github": "",
+      "liveLink": ""
+    }
+  ]
+}
