@@ -77,52 +77,59 @@
   },
   {
     "name":"HTML5",
-    "cardColor": "#20232a",
-    "logo": "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
+    "cardColor": "#E34F26",
+    "logo": "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
   },
   {
     "name":"CSS3",
-    "cardColor": "#20232a",
-    "logo": "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
+    "cardColor": "#1572B6",
+    "logo": "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
   },
   {
     "name":"SASS",
-    "cardColor": "#20232a",
-    "logo": "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
+    "cardColor": "#FF69B4",
+    "logo": "(https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"
   },
   {
     "name":"Javascript",
-    "cardColor": "#20232a",
-    "logo": "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
-  },{
+    "cardColor": "#323330",
+    "logo": "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
+  }, 
+  {
+    "name":"Java",
+    "cardColor": "#ED8B00",
+    "logo": "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"
+  },
+  
+  {
     "name":"TailwindCSS",
-    "cardColor": "#20232a",
-    "logo": "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
+    "cardColor": "#38B2AC",
+    "logo": "https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"
   },
   {
     "name":"Python",
-    "cardColor": "#20232a",
-    "logo": "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
+    "cardColor": "#3670A0",
+    "logo": "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"
   },
   {
     "name":"Vite",
-    "cardColor": "#20232a",
-    "logo": "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
+    "cardColor": "#646CFF",
+    "logo": "https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"
   },
   {
     "name":"Jenkins",
-    "cardColor": "#20232a",
-    "logo": "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
+    "cardColor": "#2C5263",
+    "logo": "https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"
   },
   {
     "name":"Figma",
-    "cardColor": "#20232a",
-    "logo": "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
+    "cardColor": "#F24E1E",
+    "logo": "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"
   },
   {
     "name":"Postman",
-    "cardColor": "#20232a",
-    "logo": "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
+    "cardColor": "#FF6C37",
+    "logo": "https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"
   }
 ]
 }
