@@ -68,8 +68,61 @@
       "github": "https://github.com/saroshfarhan/expenses-chart-component",
       "liveLink": "https://saroshfarhan.github.io/expenses-chart-component/"
     }
-    
-    
-
-  ]
+  ],
+  "skills":[
+    {
+    "name":"React",
+    "cardColor": "#20232a",
+    "logo": "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
+  },
+  {
+    "name":"HTML5",
+    "cardColor": "#20232a",
+    "logo": "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
+  },
+  {
+    "name":"CSS3",
+    "cardColor": "#20232a",
+    "logo": "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
+  },
+  {
+    "name":"SASS",
+    "cardColor": "#20232a",
+    "logo": "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
+  },
+  {
+    "name":"Javascript",
+    "cardColor": "#20232a",
+    "logo": "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
+  },{
+    "name":"TailwindCSS",
+    "cardColor": "#20232a",
+    "logo": "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
+  },
+  {
+    "name":"Python",
+    "cardColor": "#20232a",
+    "logo": "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
+  },
+  {
+    "name":"Vite",
+    "cardColor": "#20232a",
+    "logo": "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
+  },
+  {
+    "name":"Jenkins",
+    "cardColor": "#20232a",
+    "logo": "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
+  },
+  {
+    "name":"Figma",
+    "cardColor": "#20232a",
+    "logo": "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
+  },
+  {
+    "name":"Postman",
+    "cardColor": "#20232a",
+    "logo": "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
+  }
+]
 }
