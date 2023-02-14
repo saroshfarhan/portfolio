@@ -21,10 +21,39 @@
   "projects": [
     {
       "thumbnail": "",
-      "name": "",
-      "description": "",
-      "github": "",
-      "liveLink": ""
+      "name": "Rock Paper Scissors",
+      "description": "Classic game of rock paper scissors built with React and Tailwind",
+      "github": "https://github.com/saroshfarhan/rock-paper-scissors",
+      "liveLink": "https://saroshfarhan.github.io/rock-paper-scissors/"
+    },
+    {
+      "thumbnail": "",
+      "name": "Interactive Rating component",
+      "description": "Interactive rating component built using React, Vite and tailwind CSS",
+      "github": "https://github.com/saroshfarhan/interactive-rating-component",
+      "liveLink": "https://saroshfarhan.github.io/interactive-rating-component/"
+    },
+    {
+      "thumbnail": "",
+      "name": "Rock Paper Scissors ",
+      "description": "Classic game of rock paper scissors built with React and Tailwind",
+      "github": "https://github.com/saroshfarhan/rock-paper-scissors",
+      "liveLink": "https://saroshfarhan.github.io/rock-paper-scissors/"
+    },
+    {
+      "thumbnail": "",
+      "name": "Rock Paper Scissors ",
+      "description": "Classic game of rock paper scissors built with React and Tailwind",
+      "github": "https://github.com/saroshfarhan/rock-paper-scissors",
+      "liveLink": "https://saroshfarhan.github.io/rock-paper-scissors/"
+    },
+    {
+      "thumbnail": "",
+      "name": "Rock Paper Scissors ",
+      "description": "Classic game of rock paper scissors built with React and Tailwind",
+      "github": "https://github.com/saroshfarhan/rock-paper-scissors",
+      "liveLink": "https://saroshfarhan.github.io/rock-paper-scissors/"
     }
+
   ]
 }
