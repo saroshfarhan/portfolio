@@ -7,6 +7,7 @@ function IntroHeader({ introData }) {
         href={social.link}
         key={index}
         className="flex h-[24px] w-[24px] items-start justify-center "
+        target="_blank"
       >
         <img
           src={social.icon}
