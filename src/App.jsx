@@ -9,7 +9,7 @@ function App() {
     <div className="container mt-10 px-4 lg:mx-auto">
       <IntroHeader introData={data.intro} />
       <Cta />
-      <Showcase />
+      <Showcase projectData={data.projects} />
     </div>
   );
 }
