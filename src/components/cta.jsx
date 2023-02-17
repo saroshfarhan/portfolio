@@ -1,7 +1,7 @@
 import React from "react";
 import contact from "../assets/contact.svg";
 import download from "../assets/download.svg";
-import resume from "../assets/resume/SaroshFarhan_resume.pdf";
+import resume from "../assets/resume/SaroshFarhan_Resume.pdf";
 
 function Cta() {
   return (
