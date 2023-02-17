@@ -1,68 +1,68 @@
 {
   "intro": {
     "name": "Sarosh Farhan",
-    "logo": "./public/assets/logo.svg",
+    "logo": "/assets/logo.svg",
     "designation": "Frontend Developer | UI/UX Designer | QA Automation",
     "socials": [
       {
         "link": "https://www.linkedin.com/in/saroshfarhan/",
-        "icon": "./src/assets/linkedin.svg"
+        "icon": "/assets/linkedIn.svg"
       },
       {
         "link": "https://www.instagram.com/sarosh.design/",
-        "icon": "./src/assets/instagram.svg"
+        "icon": "/assets/instagram.svg"
       },
       {
         "link": "https://github.com/saroshfarhan",
-        "icon": "./src/assets/github.svg"
+        "icon": "/assets/github.svg"
       }
     ]
   },
   "projects": [
     {
-      "thumbnail": "./src/assets/projects/rockPaperScissor.jpg",
+      "thumbnail": "/assets/projects/rockPaperScissor.jpg",
       "name": "Rock Paper Scissors",
       "description": "Classic game of rock paper scissors built with React and Tailwind",
       "github": "https://github.com/saroshfarhan/rock-paper-scissors",
       "liveLink": "https://saroshfarhan.github.io/rock-paper-scissors/"
     },
     {
-      "thumbnail": "./src/assets/projects/ipAddressTracker.jpg",
+      "thumbnail": "/assets/projects/ipAddressTracker.jpg",
       "name": "IP Address Tracker",
       "description": "IP address tracker built using React, tailwind css and react-leaflet",
       "github": "https://github.com/saroshfarhan/ip-address-tracker",
       "liveLink": "https://saroshfarhan.github.io/ip-address-tracker/"
     },
     {
-      "thumbnail": "./src/assets/projects/adviceGenerator.webp",
+      "thumbnail": "/assets/projects/adviceGenerator.webp",
       "name": "Advice Generator",
       "description": "A random advice generator app built with react and tailwind css",
       "github": "https://github.com/saroshfarhan/advice-generator",
       "liveLink": "http://advice-generator-navy-xi.vercel.app/"
     },
     {
-      "thumbnail": "./src/assets/projects/interactiveCardComponent.jpg",
+      "thumbnail": "/assets/projects/interactiveCardComponent.jpg",
       "name": "Interactive Card Detail Component",
       "description": "Interactive card detail form built using React and SASS",
       "github": "https://github.com/saroshfarhan/interactive-card-detail-form",
       "liveLink": "https://saroshfarhan.github.io/interactive-card-detail-form/"
     },
     {
-      "thumbnail": "./src/assets/projects/notification.jpg",
+      "thumbnail": "/assets/projects/notification.jpg",
       "name": "Notifications Component",
       "description": "A notifications component built with React and Tailwind css",
       "github": "https://github.com/saroshfarhan/notifications-page",
       "liveLink": "https://saroshfarhan.github.io/notifications-page/"
     },
     {
-      "thumbnail": "./src/assets/projects/quizzical.png",
+      "thumbnail": "/assets/projects/quizzical.png",
       "name": "Quizzical",
       "description": "A simple anime quiz app made with react.",
       "github": "https://github.com/saroshfarhan/quizzical",
       "liveLink": "http://quizzical-two.vercel.app/"
     },
     {
-      "thumbnail": "./src/assets/projects/expencesChartComponent.jpg",
+      "thumbnail": "/assets/projects/expencesChartComponent.jpg",
       "name": "Expenses Chart component",
       "description": "Expenses chart component built usig react, tailwind css and rechart",
       "github": "https://github.com/saroshfarhan/expenses-chart-component",
