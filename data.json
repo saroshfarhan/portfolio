@@ -1,7 +1,7 @@
 {
   "intro": {
     "name": "Sarosh Farhan",
-    "logo": "./src/assets/logo.svg",
+    "logo": "./public/assets/logo.svg",
     "designation": "Frontend Developer | UI/UX Designer | QA Automation",
     "socials": [
       {
