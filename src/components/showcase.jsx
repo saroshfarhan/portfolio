@@ -58,10 +58,10 @@ function Showcase({ projectData }) {
       selectedTabClassName="bg-bgBlack text-textPrimary rounded-lg border-none font-medium focus:outline-none"
     >
       <TabList className="flex justify-evenly rounded-lg bg-grey py-2">
-        <Tab className="w-[140px] border-none py-3 px-8 text-center text-base  hover:cursor-pointer md:w-[240px] lg:w-[240px]">
+        <Tab className="w-[160px] border-none py-3 px-8 text-center text-base  hover:cursor-pointer md:w-[240px] lg:w-[240px]">
           Projects
         </Tab>
-        <Tab className="w-[140px] border-none py-3 px-8 text-center text-base hover:cursor-pointer md:w-[240px] lg:w-[240px]">
+        <Tab className="w-[160px] border-none py-3 px-8 text-center text-base hover:cursor-pointer md:w-[240px] lg:w-[240px]">
           Skills
         </Tab>
       </TabList>
