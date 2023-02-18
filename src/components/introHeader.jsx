@@ -52,8 +52,8 @@ function IntroHeader({ introData }) {
               Software Engineer
             </span>
           </span>
-          based out of India with four years of experience in Web Development,
-          UI/UX Design and QA Automation.
+          based in India with four years of experience in Web Development, UI/UX
+          Design and QA Automation.
         </blockquote>
       </div>
     </div>
