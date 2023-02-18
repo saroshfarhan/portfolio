@@ -55,11 +55,11 @@
       "liveLink": "https://saroshfarhan.github.io/notifications-page/"
     },
     {
-      "thumbnail": "/assets/projects/quizzical.png",
-      "name": "Quizzical",
-      "description": "A simple anime quiz app made with react.",
-      "github": "https://github.com/saroshfarhan/quizzical",
-      "liveLink": "http://quizzical-two.vercel.app/"
+      "thumbnail": "/assets/projects/interactiveRatingComponent.jpg",
+      "name": "Interactive Rating Component",
+      "description": "Interactive rating component built using React, Vite and tailwind CSS ",
+      "github": "https://github.com/saroshfarhan/interactive-rating-component",
+      "liveLink": "https://saroshfarhan.github.io/interactive-rating-component/"
     },
     {
       "thumbnail": "/assets/projects/expencesChartComponent.jpg",
