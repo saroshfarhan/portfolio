@@ -10,6 +10,13 @@ function App() {
       <IntroHeader introData={data.intro} />
       <Cta />
       <Showcase projectData={data.projects} skillsData={data.skills} />
+      <div className="pt-8 pb-5 text-center text-sm font-normal text-grey">
+        <p className="inline-flex items-center justify-center gap-2">
+          Crafted in <span className="text-xl">🇮🇳</span> with{" "}
+          <span className="text-xl">❤️</span>
+        </p>
+        <p>© All rights reserved</p>
+      </div>
     </div>
   );
 }
