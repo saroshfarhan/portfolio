@@ -28,13 +28,13 @@ function Cta() {
         </button>
       </a>
 
-      <button
-        type="button"
+      <a
+        href="mailto:saroshfarhan6495@gmail.com"
         className="inline-flex basis-1/2 cursor-pointer items-center justify-center gap-2 rounded-lg  bg-highlight px-6 py-[18px] text-sm font-medium text-textPrimary hover:bg-[#9154fb]"
       >
         Contact Me
         <img src={contact} alt="contact icon" className="h-[15px] w-[15px]" />
-      </button>
+      </a>
     </div>
   );
 }
