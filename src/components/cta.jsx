@@ -7,7 +7,7 @@ function Cta() {
   return (
     <div
       id="cta"
-      className="mt-16 flex flex-row items-center justify-between gap-5"
+      className="mt-12 flex flex-row items-center justify-between gap-5"
     >
       <a
         href={resume}
