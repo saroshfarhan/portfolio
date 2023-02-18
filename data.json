@@ -9,12 +9,12 @@
         "icon": "/assets/linkedIn.svg"
       },
       {
-        "link": "https://www.instagram.com/sarosh.design/",
-        "icon": "/assets/instagram.svg"
-      },
-      {
         "link": "https://github.com/saroshfarhan",
         "icon": "/assets/github.svg"
+      },
+      {
+        "link": "https://www.instagram.com/sarosh.design/",
+        "icon": "/assets/instagram.svg"
       }
     ]
   },
