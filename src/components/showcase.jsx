@@ -4,7 +4,7 @@ import "react-tabs/style/react-tabs.css";
 import github from "../assets/github_Black.svg";
 import liveLink from "../assets/link.svg";
 
-function Showcase({ projectData }) {
+function Showcase({ projectData, skillsData }) {
   const renderProjects = projectData.map((project, index) => {
     return (
       <div
@@ -52,6 +52,18 @@ function Showcase({ projectData }) {
     );
   });
 
+  // rendering skill tab
+  const renderSkills = skillsData.map((skill, index) => {
+    return (
+      <div
+        key={index}
+        className="flex w-[100px] items-center justify-start rounded-lg"
+      >
+        <img src={skill.logo} alt={skill.name} className="px-2" />
+      </div>
+    );
+  });
+
   return (
     <Tabs
       className="mt-16 md:mt-8 lg:mt-8"
@@ -72,8 +84,11 @@ function Showcase({ projectData }) {
       >
         {renderProjects}
       </TabPanel>
-      <TabPanel id="skillsContent" className="mt-3 text-textPrimary">
-        <h2>Any content 2</h2>
+      <TabPanel
+        id="skillsContent"
+        className="mt-3 flex flex-wrap justify-between gap-4 text-textPrimary md:flex md:flex-wrap md:justify-start md:gap-3 lg:flex lg:flex-wrap lg:justify-start lg:gap-3"
+      >
+        {renderSkills}
       </TabPanel>
     </Tabs>
   );
