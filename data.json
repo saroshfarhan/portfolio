@@ -20,6 +20,13 @@
   },
   "projects": [
     {
+      "thumbnail": "/assets/projects/urlShortener.jpg",
+      "name": "URL Shortener",
+      "description": "A url shortener website built with React, Vite and Tailwind CSS",
+      "github": "https://github.com/saroshfarhan/url-shortener",
+      "liveLink": "https://saroshfarhan.github.io/url-shortener/"
+    },
+    {
       "thumbnail": "/assets/projects/rockPaperScissor.jpg",
       "name": "Rock Paper Scissors",
       "description": "Classic game of rock paper scissors built with React and Tailwind",
