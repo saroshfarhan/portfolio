@@ -24,7 +24,7 @@
       "name": "Netflix Clone",
       "description": "A full-stack Netflix clone built using React, Next 13, TailwindCSS , Prisma and MongoDB ",
       "github": "https://github.com/saroshfarhan/netflix-clone",
-      "liveLink": "https://ntflx-clone-seven.vercel.app"
+      "liveLink": "https://fullstack-app-brown.vercel.app"
     },
     {
       "thumbnail": "/assets/projects/urlShortener.jpg",
