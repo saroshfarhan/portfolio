@@ -20,8 +20,15 @@
   },
   "projects": [
     {
+      "thumbnail": "/assets/projects/netflixClone.jpg",
+      "name": "Netflix Clone",
+      "description": "A full-stack Netflix clone built using React, Next 13, TailwindCSS , Prisma and MongoDB ",
+      "github": "https://github.com/saroshfarhan/netflix-clone",
+      "liveLink": "https://ntflx-clone-seven.vercel.app"
+    },
+    {
       "thumbnail": "/assets/projects/urlShortener.jpg",
-      "name": "URL Shortener",
+      "name": "Shortly",
       "description": "A url shortener website built with React, Vite and Tailwind CSS",
       "github": "https://github.com/saroshfarhan/url-shortener",
       "liveLink": "https://saroshfarhan.github.io/url-shortener/"
