@@ -19,6 +19,17 @@ function IntroHeader({ introData }) {
       </a>
     );
   });
+
+  // Just calculating years of experience dynamically to update every year
+  const calculateYearsOfService = (startDate) => {
+    const start = new Date(startDate);
+    const today = new Date();
+    const diff = today - start; // Difference in milliseconds
+    const years = Math.floor(diff / (1000 * 60 * 60 * 24 * 365.25)); // Convert to years
+    return years;
+  };
+  const startDate = "2018-12-17";
+  const yearsOfService = calculateYearsOfService(startDate);
   return (
     <div>
       <div className="text-center text-textPrimary md:flex md:items-center md:justify-start md:gap-10 md:text-left lg:flex lg:items-center lg:justify-start lg:gap-10 lg:text-left">
@@ -52,8 +63,8 @@ function IntroHeader({ introData }) {
               Software Engineer
             </span>
           </span>
-          based in India with four years of experience in Web Development, UI/UX
-          Design and QA Automation.
+          based in India with {yearsOfService} years of experience in Web
+          Development, UI/UX Design and QA Automation.
         </blockquote>
       </div>
     </div>
