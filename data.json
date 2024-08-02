@@ -20,6 +20,13 @@
   },
   "projects": [
     {
+      "thumbnail": "/assets/projects/iphoneClone.png",
+      "name": "Iphone clone website",
+      "description": "Iphone clone website built using React, TailwindCSS, GSAP and ThreeJs",
+      "github": "https://github.com/saroshfarhan/iphone-clone-website",
+      "liveLink": "https://saroshfarhan.github.io/iphone-clone-website/"
+    },
+    {
       "thumbnail": "/assets/projects/netflixClone.jpg",
       "name": "Netflix Clone",
       "description": "A full-stack Netflix clone built using React, Next 13, TailwindCSS , Prisma and MongoDB ",
@@ -144,6 +151,11 @@
       "name": "Postman",
       "cardColor": "bg-[#FF6C37]",
       "logo": "https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"
+    },
+    {
+      "name": "ThreeJS",
+      "cardColor": "bg-[#000000]",
+      "logo": "https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff"
     }
   ]
 }
